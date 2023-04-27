@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments for Liana San Diego Music	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../index.html</link>
 	<description>Indie Pop Music from Cebu</description>
 	<lastBuildDate>Thu, 27 Apr 2023 07:59:42 +0000</lastBuildDate>
 	<sy:updatePeriod>
